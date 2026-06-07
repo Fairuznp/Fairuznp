@@ -13,8 +13,8 @@
 ## 👤 About Me
 
 ```yaml
-name        : Fairuz Naufal P
-location    : Cilacap, Central Java, Indonesia
+name        : Fairuz nur parsa
+location    : Pangandaran, West Java, Indonesia
 role        : Full Stack Developer · Mobile Developer · Game Developer
 focus       : [ Laravel, Next.js, Flutter, React, Node.js ]
 available   : Open to collaboration & projects
@@ -57,10 +57,7 @@ I craft scalable web applications and cross-platform mobile experiences — buil
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-[![Fairuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fairuznp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8)](https://github.com/Fairuznp)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fairuznp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8)](https://github.com/Fairuznp)
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fairuznp&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b)](https://github.com/Fairuznp)
 
 </div>

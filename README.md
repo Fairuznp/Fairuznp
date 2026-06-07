@@ -67,6 +67,7 @@ I craft scalable web applications and cross-platform mobile experiences — buil
 ## 🧭 Current Focus
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6a2584747e97c9d3f87c163c?variant=dark&roadmaps=backend%2Cflutter%2Cgame-developer)](https://roadmap.sh)
+https://roadmap.sh/projects/github-user-activity/solutions?u=6a2584747e97c9d3f87c163c
 ---
 
 ## 📈 Activity
